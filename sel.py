@@ -1,7 +1,5 @@
 import selenium.webdriver as webdriver
 
-
-
 def query(key):
 
     url = 'https://www.startpage.com'
